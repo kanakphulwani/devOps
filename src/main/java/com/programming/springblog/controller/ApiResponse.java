@@ -13,7 +13,7 @@ public class ApiResponse {
 		return message;
 	}
 	public void setMessage(String message) {
-		this.message = message;
+		this.message = message; 
 	}
 	public boolean isSuccess() {
 		return success;
