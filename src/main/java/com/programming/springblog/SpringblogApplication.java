@@ -10,7 +10,7 @@ public class SpringblogApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringblogApplication.class, args);
-		System.out.println("hello everyone..how are you doing?");
+		System.out.println("hello everyone..");
 	}
 
 	@Bean
